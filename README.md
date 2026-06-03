@@ -65,7 +65,7 @@ Python    ---    SQL    ---    pandas    ---    GeoPandas    ---    QGIS    --- 
 
 ### Geospatial Mobility Hotspots
 
-![Chicago Mobility Hotspots](images/chicago_mobility_hotspots.png)
+![Chicago Mobility Hotspots](images/chicago_mobility_hotspots.jpg)
 
 ### Weather Impact on Travel Duration
 
