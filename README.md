@@ -1,4 +1,8 @@
 # Geospatial-Analysis-of-Urban-Mobility-Patterns-and-Weather-Impacts
+Prepared by: Karla Leiva
+
+Last Modified: June 9, 2026
+
 
 ## Project Overview
 
